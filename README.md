@@ -1,1 +1,0 @@
-Pylon is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features. With Pylon, developing desktop applications becomes simple, enabling you to effortlessly build apps by integrating Python's powerful capabilities.
