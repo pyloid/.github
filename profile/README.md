@@ -1,7 +1,3 @@
-Here's a more polished and visually appealing version of the README for your organization's first page:
-
----
-
 ## Pylon 👋
 
 **Pylon** is the Python backend version of [Electron](https://www.electronjs.org/) and [Tauri](https://tauri.app/), designed to simplify desktop application development. This open-source project provides seamless integration with various Python features, empowering you to build powerful applications effortlessly.
