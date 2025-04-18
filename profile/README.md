@@ -1,9 +1,3 @@
-<h1 style="text-align: center; font-size: 200px; font-weight: 500;">
-    <i>Pyloid</i>
-</h1>
-
-![example image](example.png)
-
 <h2 align="center" style="font-size: 28px;"><b>Pyloid: Thread-Safe Desktop Apps—Unified with Any Frontend and Python Technology</b></h2>
 
 
