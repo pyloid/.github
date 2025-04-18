@@ -1,23 +1,21 @@
-# What is Pyloid?
+<h1 style="text-align: center; font-size: 200px; font-weight: 500;">
+    <i>Pyloid</i>
+</h1>
 
-## Pyloid 👋
+![example image](example.png)
 
-Pyloid is the Python backend version of Electron and Tauri, designed to simplify desktop application development. This open-source project, built on **QtWebEngine** and **PySide6**, provides seamless integration with various Python features
+<h2 align="center" style="font-size: 28px;"><b>Pyloid: Thread-Safe Desktop Apps—Unified with Any Frontend and Python Technology</b></h2>
 
-### 🚀 Why Pyloid?
 
-With Pyloid, you can leverage the full power of Python in your desktop applications. Its simplicity and flexibility make it the perfect choice for both beginners and experienced developers looking for a Python-focused alternative to Electron or Tauri. It is especially optimized for building AI-powered desktop applications.
+## 💡 Key Features 
 
-### Key Features 🚀
-
-- **Web-based GUI Generation**
-- **System Tray Icon Support** 🖥️
-- **Multi-Window Management**
-- **Bridge API between Python and JavaScript** 🌉
-- **Single Instance Application / Multi Instance Application Support**
-- **Comprehensive Desktop App Features**
-- **Clean and Intuitive Code Structure**
-- **Live UI Development Experience**
+- **All Frontend Frameworks** are supported
+- **All features necessary** for a desktop application are implemented
+- Through thread-safe implementation, it seamlessly **integrates with any Python framework**
+- **RPC** between Python and JavaScript
+- Single Instance Application / Multi Instance Application Support
+- Multi-Window Application Support
+- Clean and Intuitive Code Structure
 - **Cross-Platform Support**
-- **Integration with Various Frontend Libraries**
-- **Window Customization**
+- Window Customization
+- **Detailed Numpy-style Docstrings**
