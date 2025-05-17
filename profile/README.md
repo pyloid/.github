@@ -1,5 +1,8 @@
 <h2 align="center" style="font-size: 28px;"><b>Pyloid: Thread-Safe Desktop Apps—Unified with Any Frontend and Python Technology</b></h2>
 
+## Discord
+
+[Our Discord!](https://discord.gg/VTqexxxTy9)
 
 ## 💡 Key Features 
 
@@ -13,3 +16,5 @@
 - **Cross-Platform Support**
 - Window Customization
 - **Detailed Numpy-style Docstrings**
+
+
